@@ -1,0 +1,18 @@
+﻿POPS = {
+	s:STATE_NEWFOUNDLAND = {
+		region_state:NEW = {
+			create_pop = {
+				culture = inuit
+				size = 7980
+			}
+			create_pop = {
+				culture = irish
+				size = 40000
+			}
+			create_pop = {
+				culture = anglo_canadian
+				size = 39996
+			}
+		}
+	}
+}

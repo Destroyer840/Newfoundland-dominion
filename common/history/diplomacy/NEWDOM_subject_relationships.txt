@@ -1,0 +1,9 @@
+﻿DIPLOMACY = {
+	c:GBR = {
+		# Newfoundland
+		create_diplomatic_pact = {
+			country = c:NEW
+			type = puppet
+		}
+	}
+}
